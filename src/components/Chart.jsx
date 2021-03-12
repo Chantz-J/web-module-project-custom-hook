@@ -9,7 +9,6 @@ import {
   Tooltip
 } from "recharts";
 
-const Chantz = []
 
 const Chart = ({ sparklineData }) => {
   const formattedData = sparklineData
